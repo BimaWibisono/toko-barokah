@@ -1,0 +1,50 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+img {
+  margin-top: 8px;
+  margin-left: 20px;
+  width: 50px;
+}
+
+Nav {
+  position: sticky;
+  top: 0;
+}
+
+footer {
+  padding: 20px;
+}
+
+.nasi {
+  width: 150px;
+}
+
+.snack {
+  width: 150px;
+}
+
+.drink {
+  width: 250px;
+}
+
+.makanan-pokok {
+  margin-top: 50px;
+}
+
+.makanan-ringan {
+  margin-top: 50px;
+}
